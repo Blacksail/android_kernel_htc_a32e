@@ -1,0 +1,1 @@
+cmd_drivers/soc/qcom/display/built-in.o :=  /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/soc/qcom/display/built-in.o drivers/soc/qcom/display/htc_a32e-panel.o 

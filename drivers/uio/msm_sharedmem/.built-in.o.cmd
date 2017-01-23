@@ -1,0 +1,1 @@
+cmd_drivers/uio/msm_sharedmem/built-in.o :=  /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/uio/msm_sharedmem/built-in.o drivers/uio/msm_sharedmem/msm_sharedmem.o drivers/uio/msm_sharedmem/remote_filesystem_access_v01.o drivers/uio/msm_sharedmem/sharedmem_qmi.o 

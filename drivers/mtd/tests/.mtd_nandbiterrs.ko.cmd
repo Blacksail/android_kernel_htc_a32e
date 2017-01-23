@@ -1,0 +1,1 @@
+cmd_drivers/mtd/tests/mtd_nandbiterrs.ko := /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL -r  -T /home/anas/android/device/a32e/scripts/module-common.lds --build-id  -o drivers/mtd/tests/mtd_nandbiterrs.ko drivers/mtd/tests/mtd_nandbiterrs.o drivers/mtd/tests/mtd_nandbiterrs.mod.o

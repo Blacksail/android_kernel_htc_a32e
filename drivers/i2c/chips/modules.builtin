@@ -1,0 +1,2 @@
+kernel/drivers/i2c/chips/pn544.ko
+kernel/drivers/i2c/chips/pn544_htc.ko

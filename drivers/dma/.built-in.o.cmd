@@ -1,0 +1,1 @@
+cmd_drivers/dma/built-in.o :=  /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/dma/built-in.o drivers/dma/dmaengine.o drivers/dma/of-dma.o drivers/dma/qcom-sps-dma.o 

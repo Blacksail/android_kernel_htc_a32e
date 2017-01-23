@@ -1,0 +1,1 @@
+cmd_drivers/media/radio/radio-iris-transport.ko := /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL -r  -T /home/anas/android/device/a32e/scripts/module-common.lds --build-id  -o drivers/media/radio/radio-iris-transport.ko drivers/media/radio/radio-iris-transport.o drivers/media/radio/radio-iris-transport.mod.o

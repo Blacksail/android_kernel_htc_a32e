@@ -1,0 +1,2 @@
+kernel/drivers/input/touchscreen/touch_fw_update.ko
+kernel/drivers/input/touchscreen/himax_852xD.ko

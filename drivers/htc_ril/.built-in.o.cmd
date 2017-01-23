@@ -1,0 +1,1 @@
+cmd_drivers/htc_ril/built-in.o :=  /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/htc_ril/built-in.o drivers/htc_ril/htc_radio_smem.o drivers/htc_ril/htc_modem_notifier.o drivers/htc_ril/htc_port_list.o 

@@ -1,0 +1,1 @@
+cmd_drivers/gud/mcKernelApi.ko := /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL -r  -T /home/anas/android/device/a32e/scripts/module-common.lds --build-id  -o drivers/gud/mcKernelApi.ko drivers/gud/mcKernelApi.o drivers/gud/mcKernelApi.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/power/reset/built-in.o :=  /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/power/reset/built-in.o drivers/power/reset/msm-poweroff.o drivers/power/reset/htc_restart_handler.o 

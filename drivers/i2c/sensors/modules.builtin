@@ -1,0 +1,3 @@
+kernel/drivers/i2c/sensors/bma255_without_Ecompass.ko
+kernel/drivers/i2c/sensors/cm36686.ko
+kernel/drivers/i2c/sensors/epl88051_KPW.ko

@@ -1,0 +1,1 @@
+cmd_drivers/htc_debug/mnemosyne/built-in.o :=  /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/htc_debug/mnemosyne/built-in.o drivers/htc_debug/mnemosyne/htc_mnemosyne.o drivers/htc_debug/mnemosyne/htc_footprint.o 

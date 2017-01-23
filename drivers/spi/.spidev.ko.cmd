@@ -1,0 +1,1 @@
+cmd_drivers/spi/spidev.ko := /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL -r  -T /home/anas/android/device/a32e/scripts/module-common.lds --build-id  -o drivers/spi/spidev.ko drivers/spi/spidev.o drivers/spi/spidev.mod.o

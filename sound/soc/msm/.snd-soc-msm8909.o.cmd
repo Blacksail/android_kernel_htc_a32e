@@ -1,0 +1,1 @@
+cmd_sound/soc/msm/snd-soc-msm8909.o := /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o sound/soc/msm/snd-soc-msm8909.o sound/soc/msm/msm8x16-audio.o sound/soc/msm/htc_acoustic_alsa.o 

@@ -1,0 +1,8 @@
+kernel/drivers/leds/led-class.ko
+kernel/drivers/leds/leds-lm3697.ko
+kernel/drivers/leds/leds-qpnp.ko
+kernel/drivers/leds/leds-gpio.ko
+kernel/drivers/leds/leds-lp55xx-common.ko
+kernel/drivers/leds/leds-lp5521_htc.ko
+kernel/drivers/leds/htc_flashlight_common.ko
+kernel/drivers/leds/tps61310_flashlight.ko

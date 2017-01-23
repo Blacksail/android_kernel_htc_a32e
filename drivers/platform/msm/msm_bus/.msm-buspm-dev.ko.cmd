@@ -1,0 +1,1 @@
+cmd_drivers/platform/msm/msm_bus/msm-buspm-dev.ko := /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL -r  -T /home/anas/android/device/a32e/scripts/module-common.lds --build-id  -o drivers/platform/msm/msm_bus/msm-buspm-dev.ko drivers/platform/msm/msm_bus/msm-buspm-dev.o drivers/platform/msm/msm_bus/msm-buspm-dev.mod.o

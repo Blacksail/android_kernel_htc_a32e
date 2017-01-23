@@ -1,0 +1,8 @@
+kernel/drivers/i2c/i2c-core.ko
+kernel/drivers/i2c/i2c-dev.ko
+kernel/drivers/i2c/busses/i2c-msm-v2.ko
+kernel/drivers/i2c/chips/pn544.ko
+kernel/drivers/i2c/chips/pn544_htc.ko
+kernel/drivers/i2c/sensors/bma255_without_Ecompass.ko
+kernel/drivers/i2c/sensors/cm36686.ko
+kernel/drivers/i2c/sensors/epl88051_KPW.ko

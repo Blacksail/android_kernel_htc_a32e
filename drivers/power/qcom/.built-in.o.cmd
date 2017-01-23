@@ -1,0 +1,1 @@
+cmd_drivers/power/qcom/built-in.o :=  /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/power/qcom/built-in.o drivers/power/qcom/msm-pm.o drivers/power/qcom/pm-data.o drivers/power/qcom/pm-stats.o drivers/power/qcom/lpm-stats.o drivers/power/qcom/pm-boot.o drivers/power/qcom/htc_util.o drivers/power/qcom/htc_cpu_usage_stats.o 

@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/gpio_axis.ko := /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL -r  -T /home/anas/android/device/a32e/scripts/module-common.lds --build-id  -o drivers/input/misc/gpio_axis.ko drivers/input/misc/gpio_axis.o drivers/input/misc/gpio_axis.mod.o

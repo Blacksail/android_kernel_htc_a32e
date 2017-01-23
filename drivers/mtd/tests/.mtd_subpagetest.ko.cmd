@@ -1,0 +1,1 @@
+cmd_drivers/mtd/tests/mtd_subpagetest.ko := /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL -r  -T /home/anas/android/device/a32e/scripts/module-common.lds --build-id  -o drivers/mtd/tests/mtd_subpagetest.ko drivers/mtd/tests/mtd_subpagetest.o drivers/mtd/tests/mtd_subpagetest.mod.o

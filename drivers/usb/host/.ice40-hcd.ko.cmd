@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/ice40-hcd.ko := /home/anas/android/Toolchains/prebuilts/arm-eabi-4.8/bin/arm-eabi-ld -EL -r  -T /home/anas/android/device/a32e/scripts/module-common.lds --build-id  -o drivers/usb/host/ice40-hcd.ko drivers/usb/host/ice40-hcd.o drivers/usb/host/ice40-hcd.mod.o
